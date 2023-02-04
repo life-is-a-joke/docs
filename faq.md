@@ -9,4 +9,4 @@
 
 
 ??? question "What we do"
-    You are with us. We have fun. We play guitar, football, cooking, party, singing, joking, biking, badminton, and all things fun.  
+    You are with us. We have fun. We play guitar, football, cooking, party, singing, joking, biking, badminton, coding, and all things fun.  
