@@ -1,7 +1,6 @@
 # ဘဝ ဆိုတာ ဟာသ ပါ Life is a Joke
 
-ကျနော်တို့ ကိုယ်ဘဝ နှင့် ဆက်စပ်ရာ ဘဝတွေ အကြောင်း ရေးပါတယ်။ လှောင်မယ်၊ ပြောင်မယ်၊ ဟားမယ်၊ အမှန်တွေပါ။ မမှန်တာ မရေးပါ။ ဘဝကို အပြင်ဖတ်ထွက်ပြီး မြင်အောင်ကြည့်လိုက်ရင် **ဘဝ ဆိုတာ ဟာသပါ**။
+In The Universe, merely compose of matter and energy, if you believe you are a soul, then *Life is a Joke*. 
 
-We write about our life, that were really happen, for you to laugh at. We hope that you will see your life from outside and then, realize that **life is a joke**. 
-
+အရာဝတ္ထု နှင့် စွမ်းအင် များဖြင့်သာ တည်ဆောက်ထားတဲ့ ဒီလောကကြီးမှာ၊ သင်ဟာ သက်ရှိဝိညာဉ်လို့ ယုံကြည်ရင်ဘဝ ဆိုတာ ဟာသ ပါ။
 

@@ -1,13 +1,7 @@
-# MBI AI Workgroup
+# ဘဝ ဆိုတာ ဟာသ ပါ Life is a Joke
 
+ကျနော်တို့ ကိုယ်ဘဝ နှင့် ဆက်စပ်ရာ ဘဝတွေ အကြောင်း ရေးပါတယ်။ လှောင်မယ်၊ ပြောင်မယ်၊ ဟားမယ်၊ အမှန်တွေပါ။ မမှန်တာ မရေးပါ။ ဘဝကို အပြင်ဖတ်ထွက်ပြီး မြင်အောင်ကြည့်လိုက်ရင် **ဘဝ ဆိုတာ ဟာသပါ**။
 
+We write about our life, that were really happen, for you to laugh at. We hope that you will see your life from outside and then, realize that **life is a joke**. 
 
-MBI AI Workgroup has two parts:
-
-1. Production
-2. Research
-
-The Production group will be headed by Richard, the aim is to have codes for segmentation and image restoration that is user friendly, on the server, for the whole of MBI. We decide to use Python and GIT for development. The codes will be based on Xianbin's implementation for now, but it will be work in progress. The idea is to have Xianbin show the representatives of each group how to set it up, then each of you set up in your own groups. This will help us get feedback before implementing for the whole of MBI. Xianbin will email a separate time to meet up, roughly in two weeks.
-
-The Research group aims to explore networks for 3D images, 2D image time-series and unsupervised frameworks. We will have a regular meeting every month to discuss latest developments in the field, our problems, etc.
 
